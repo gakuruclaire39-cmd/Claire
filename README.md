@@ -7,7 +7,7 @@
 
 ## Skills I'm Building
 - Git and GitHub
-- Python", "HTML/CSS", "Machine Learning.
+- Python, HTML/CSS, Machine Learning.
 
 ## Current Projects
 - Profile Readme(link) — creating a profile readme.
