@@ -14,21 +14,15 @@
 
 ## How to Reach Me
 - Email: gakuruclaire39@gmail.com
-- LinkedIn: https://www.linkedin.com/in/claire/
+- LinkedIn:not active for now.
 
-###git config --list
-diff.astextplain.textconv=astextplain
+## Git Commands
+```
+$ git config --global --list
+user.email=gakuruclaire39@gmail.com
+user.name=Claire
 filter.lfs.clean=git-lfs clean -- %f
 filter.lfs.smudge=git-lfs smudge -- %f
 filter.lfs.process=git-lfs filter-process
 filter.lfs.required=true
-http.sslbackend=schannel
-core.autocrlf=true
-core.fscache=true
-core.symlinks=false
-pull.rebase=false
-credential.helper=manager
-credential.https://dev.azure.com.usehttppath=true
-init.defaultbranch=master
-user.email=gakuruclaire39-cmd
-user.name=Claire
+
